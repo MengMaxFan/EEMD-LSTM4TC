@@ -5,7 +5,7 @@ This repository is the official implementation of "Predicting Tropical Cyclone W
 ![model](https://user-images.githubusercontent.com/17058892/132942282-1e65e599-23e1-4ba8-b171-1c7666b3dd90.png)
 
 ## Requirements
-  keras, PyEMD
+  Keras, PyEMD
 ## Training
   To run the expriments in this paper,run this commend:
   ```
